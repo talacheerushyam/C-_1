@@ -1,0 +1,14 @@
+c:\users\m123989\documents\visual studio 2015\Projects\SchedulingApp\SchedulingApp\bin\Debug\SchedulingApp.exe.config
+c:\users\m123989\documents\visual studio 2015\Projects\SchedulingApp\SchedulingApp\bin\Debug\SchedulingApp.exe
+c:\users\m123989\documents\visual studio 2015\Projects\SchedulingApp\SchedulingApp\bin\Debug\SchedulingApp.pdb
+c:\users\m123989\documents\visual studio 2015\Projects\SchedulingApp\SchedulingApp\obj\Debug\SchedulingApp.csprojResolveAssemblyReference.cache
+c:\users\m123989\documents\visual studio 2015\Projects\SchedulingApp\SchedulingApp\obj\Debug\MainWindow.g.cs
+c:\users\m123989\documents\visual studio 2015\Projects\SchedulingApp\SchedulingApp\obj\Debug\App.g.cs
+c:\users\m123989\documents\visual studio 2015\Projects\SchedulingApp\SchedulingApp\obj\Debug\SchedulingApp_MarkupCompile.cache
+c:\users\m123989\documents\visual studio 2015\Projects\SchedulingApp\SchedulingApp\obj\Debug\SchedulingApp_MarkupCompile.lref
+c:\users\m123989\documents\visual studio 2015\Projects\SchedulingApp\SchedulingApp\obj\Debug\MainWindow.baml
+c:\users\m123989\documents\visual studio 2015\Projects\SchedulingApp\SchedulingApp\obj\Debug\SchedulingApp.g.resources
+c:\users\m123989\documents\visual studio 2015\Projects\SchedulingApp\SchedulingApp\obj\Debug\SchedulingApp.Properties.Resources.resources
+c:\users\m123989\documents\visual studio 2015\Projects\SchedulingApp\SchedulingApp\obj\Debug\SchedulingApp.csproj.GenerateResource.Cache
+c:\users\m123989\documents\visual studio 2015\Projects\SchedulingApp\SchedulingApp\obj\Debug\SchedulingApp.exe
+c:\users\m123989\documents\visual studio 2015\Projects\SchedulingApp\SchedulingApp\obj\Debug\SchedulingApp.pdb

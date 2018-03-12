@@ -1,0 +1,10 @@
+c:\users\m123989\documents\visual studio 2015\Projects\SchedulingApp\DataAccessLibrary\obj\Debug\DataAccessLibrary.csprojResolveAssemblyReference.cache
+c:\users\m123989\documents\visual studio 2015\Projects\SchedulingApp\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll.config
+c:\users\m123989\documents\visual studio 2015\Projects\SchedulingApp\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll
+c:\users\m123989\documents\visual studio 2015\Projects\SchedulingApp\DataAccessLibrary\bin\Debug\DataAccessLibrary.pdb
+c:\users\m123989\documents\visual studio 2015\Projects\SchedulingApp\DataAccessLibrary\bin\Debug\EntityFramework.dll
+c:\users\m123989\documents\visual studio 2015\Projects\SchedulingApp\DataAccessLibrary\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\m123989\documents\visual studio 2015\Projects\SchedulingApp\DataAccessLibrary\bin\Debug\EntityFramework.xml
+c:\users\m123989\documents\visual studio 2015\Projects\SchedulingApp\DataAccessLibrary\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\m123989\documents\visual studio 2015\Projects\SchedulingApp\DataAccessLibrary\obj\Debug\DataAccessLibrary.dll
+c:\users\m123989\documents\visual studio 2015\Projects\SchedulingApp\DataAccessLibrary\obj\Debug\DataAccessLibrary.pdb
